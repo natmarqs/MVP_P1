@@ -1,7 +1,8 @@
 # MVP_P1
-MVP - Ciência de Dados: Classificação de Métodos de Vazamento de Dados em Incidentes Públicos Usando Machine Learning Clássico
+MVP - Ciência de Dados: **Classificação de Métodos de Vazamento de Dados em Incidentes Públicos Usando Machine Learning Clássico**
 
 **Docente**: Natália Andrade Marques
+
 **Data**: 27/10/2025
 
 # Classificação de Métodos de Vazamento de Dados em Incidentes Públicos Usando Machine Learning Clássico
